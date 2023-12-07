@@ -15,7 +15,7 @@ int main(){
 	for(i=1;i<=4;i++){
 		for(j=1;j<=i;j++){
 			cout<<x++<<" ";
-			if(x==3 || x==6){
+			if(x==3 ){
 				x=0;
 			}
 		}cout<<endl;
