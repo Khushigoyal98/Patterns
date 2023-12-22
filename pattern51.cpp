@@ -17,6 +17,7 @@ Draw following pattern using  loops
 */
 
 #include <iostream>
+
 using namespace std;
 int main()
 {
