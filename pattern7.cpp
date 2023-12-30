@@ -1,5 +1,7 @@
 /*
 
+Draw pattern using LOOPS ---->
+
  j 1 2 3 4 5 
 i  
 1  1 * 3 * 5
