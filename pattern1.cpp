@@ -5,6 +5,7 @@ Draw the following pattern using only 2 loops
 * 2 3 4 *
 * 2 3 4 *
 * * * * *
+
 */
 
 #include<iostream>
