@@ -19,6 +19,7 @@ int main()
 			if(i==1||i==5||j==1||j==5)
 			cout<<"*";
 			else{
+				
 				cout<<j;
 			}
 		
