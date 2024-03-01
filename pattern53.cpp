@@ -1,4 +1,3 @@
-
 /*
 
 Draw following pattern using only 2 loops
