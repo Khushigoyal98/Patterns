@@ -1,4 +1,19 @@
+/*
+Draw following pattern using only 2 loops
 
+*  *  *  *  *  *  *  *  *  *  *  
+*  *        *     *        *  *
+*     *  *           *  *     *
+*     *  *           *  *     *
+*  *        *     *        *  *
+*              *              *
+*  *        *     *        *  *
+*     *  *           *  *     *
+*     *  *           *  *     *
+*  *        *     *        *  *
+*  *  *  *  *  *  *  *  *  *  *
+
+*/
 
 #include<iostream>
 using namespace std;
