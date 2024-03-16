@@ -1,8 +1,7 @@
 
 
 
-/*
-
+/*
 Draw following pattern using only two loops
 
       * * * *
