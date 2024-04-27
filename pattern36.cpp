@@ -1,4 +1,5 @@
 /*
+
 A A A A A
 A B B B A
 A B C B A
