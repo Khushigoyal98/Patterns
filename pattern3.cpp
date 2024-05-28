@@ -1,5 +1,4 @@
 /*
-
 Draw the following pattern
 1 * * * *
 1 2 * * *
