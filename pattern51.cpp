@@ -1,5 +1,4 @@
 /*
-
 Draw following pattern using  loops
 
         *
